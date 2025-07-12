@@ -1,4 +1,4 @@
-# 👩‍💻 Janisha S. | Aspiring AI & ML Specialist
+# 👩‍💻 Janisha S | Aspiring AI & ML Specialist
 
 🎓 BCA Graduate | 💡 Passionate about Data Science, Machine Learning, and AI  
 🔍 Eager to solve real-world problems using innovative technologies
