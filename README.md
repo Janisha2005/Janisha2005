@@ -1,3 +1,20 @@
+# 👋 Hi, I'm Janisha S.
+
+🎓 BCA Graduate | 💡 Passionate about Data Science, ML & AI  
+🛠️ Skills: Python, SQL, Power BI, Pandas, Scikit-learn, Streamlit, Flask  
+📊 Building real-world AI/ML projects to solve real problems
+
+🚀 Current Focus:  
+- Machine Learning Algorithms  
+- NLP & Chatbots  
+- LLMs & Generative AI  
+
+📌 Check out my pinned projects below!  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | youremail@example.com  
+🌐 Portfolio: [Streamlit Portfolio](https://your-portfolio-link.com)
+
+---
+
 # 👩‍💻 Janisha S | Aspiring AI & ML Specialist
 
 🎓 BCA Graduate | 💡 Passionate about Data Science, Machine Learning, and AI  
