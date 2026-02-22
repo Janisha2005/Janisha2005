@@ -1,5 +1,7 @@
 # 👩‍💻 Janisha S | Aspiring AI & ML Specialist
 
+Seeking remote/in-office roles as a Data Scientist or Machine Learning Engineer.
+
 🎓 BCA Graduate | 💡 Passionate about Data Science, Machine Learning, and AI  
 🔍 Eager to solve real-world problems using innovative technologies
 
